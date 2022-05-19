@@ -25,13 +25,13 @@
 
 <img src="https://user-images.githubusercontent.com/44966997/169260267-183af4d2-141c-4acc-b9e7-cc4983ddb752.png" height="64">
 
-> [PL-100: Microsoft Power Platform App Maker](https://www.credly.com/badges/470dec90-c7de-4003-87af-0cf09267b2ae/public_url)
+> [Exam PL-900: Microsoft Power Platform Fundamentals](https://www.credly.com/badges/470dec90-c7de-4003-87af-0cf09267b2ae/public_url)
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/44966997/127831167-ee8aa995-129e-45e3-a6b9-c961b163fb34.png" height="64">
 
-> [MB-200 Microsoft Power Platform + Dynamics 365 Core](https://www.credly.com/badges/1dd66df4-4a22-444e-82a4-549508ac4726/public_url)
+> [Exam MB-200: Microsoft Power Platform + Dynamics 365 Core](https://www.credly.com/badges/1dd66df4-4a22-444e-82a4-549508ac4726/public_url)
 
 <br><br>
 
