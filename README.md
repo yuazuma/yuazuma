@@ -12,6 +12,7 @@
 
 > https://riss.ipa.go.jp/r?r=010930
 
+<br><br><br>
 
 ## [Microsoft](https://learn.microsoft.com/ja-jp/users/48268433)
 
@@ -36,6 +37,8 @@ PL-100 (2023/07/28)
 > [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/users/48268433/credentials/certification/azure-ai-fundamentals)
 
 AI-900 (2023/07/05)
+
+<br><br><br>
 
 ## [Credly](https://www.credly.com/users/yuta-azuma)
 
@@ -85,7 +88,7 @@ MB-200 (2020/12/17)
 
 > [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e2e89f43-9c8e-46d9-ae21-225f21e90efb/public_url)
 
-<br><br>
+<br><br><br>
 
 ## LecoS
 
