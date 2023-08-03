@@ -79,10 +79,13 @@ MB-200 (2020/12/17)
 
 > [AWS Certified Developer – Associate](https://www.credly.com/badges/5a17c5ea-96da-4918-ad78-0e01497c2e9e/public_url)
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/44966997/127831202-3c31f192-8050-4ca1-b319-ab9fb72667d8.png" height="64">
 
 > [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e2e89f43-9c8e-46d9-ae21-225f21e90efb/public_url)
 
+<br><br>
 
 ## LecoS
 
