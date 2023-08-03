@@ -13,6 +13,30 @@
 > https://riss.ipa.go.jp/r?r=010930
 
 
+## [Microsoft](https://learn.microsoft.com/ja-jp/users/48268433)
+
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="64">
+
+> [Microsoft Certified: Power Platform Developer Associate](https://learn.microsoft.com/ja-jp/users/48268433/credentials/certification/power-platform-developer-associate)
+
+PL-400 (2023/08/03)
+
+<br><br>
+
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="64">
+
+> [Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/ja-jp/users/48268433/credentials/certification/power-platform-app-maker)
+
+PL-100 (2023/07/28)
+
+<br><br>
+
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="64">
+
+> [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/users/48268433/credentials/certification/azure-ai-fundamentals)
+
+AI-900 (2023/07/05)
+
 ## [Credly](https://www.credly.com/users/yuta-azuma)
 
 ### Microsoft
@@ -21,13 +45,15 @@
 
 > [Microsoft Certified: Power Platform Functional Consultant Associate](https://www.credly.com/badges/7d33992e-11ba-4939-9157-90e9634574d4/public_url)
 
-PL-200
+PL-200 (2023/02/09)
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/44966997/127831108-0d116273-f8e4-414b-972a-d1de46756a93.png" height="64">
+<img src="https://user-images.githubusercontent.com/44966997/169260267-183af4d2-141c-4acc-b9e7-cc4983ddb752.png" height="64">
 
-> [Exam 461: Querying Microsoft SQL Server 2012/2014](https://www.credly.com/badges/1076565a-6f49-4869-9cc6-a9e802ef06e4/public_url)
+> [Exam PL-900: Microsoft Power Platform Fundamentals](https://www.credly.com/badges/470dec90-c7de-4003-87af-0cf09267b2ae/public_url)
+
+PL-900 (2022/05/19)
 
 <br><br>
 
@@ -35,11 +61,15 @@ PL-200
 
 > [Exam MB-200: Microsoft Power Platform + Dynamics 365 Core](https://www.credly.com/badges/1dd66df4-4a22-444e-82a4-549508ac4726/public_url)
 
+MB-200 (2020/12/17)
+
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/44966997/169260267-183af4d2-141c-4acc-b9e7-cc4983ddb752.png" height="64">
+<img src="https://user-images.githubusercontent.com/44966997/127831108-0d116273-f8e4-414b-972a-d1de46756a93.png" height="64">
 
-> [Exam PL-900: Microsoft Power Platform Fundamentals](https://www.credly.com/badges/470dec90-c7de-4003-87af-0cf09267b2ae/public_url)
+> [Exam 461: Querying Microsoft SQL Server 2012/2014](https://www.credly.com/badges/1076565a-6f49-4869-9cc6-a9e802ef06e4/public_url)
+
+70-461 (2018/12/25)
 
 <br><br>
 
