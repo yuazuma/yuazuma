@@ -24,6 +24,14 @@ PL-400 (2023/08/03)
 
 <br><br>
 
+<img src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="64">
+
+> [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-engineer/)
+
+AI-102 (2024/07/12)
+
+<br><br>
+
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="64">
 
 > [Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/ja-jp/users/48268433/credentials/certification/power-platform-app-maker)
