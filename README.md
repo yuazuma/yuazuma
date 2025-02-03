@@ -54,6 +54,14 @@ PL-100 (2023/07/28)
 
 AI-900 (2023/07/05)
 
+<br><br>
+
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" height="64">
+
+> [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/)
+
+AZ-900 (2024/08/22)
+
 <br><br><br>
 
 ## [Credly](https://www.credly.com/users/yuta-azuma)
