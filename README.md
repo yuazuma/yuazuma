@@ -16,6 +16,14 @@
 
 ## [Microsoft](https://learn.microsoft.com/ja-jp/users/48268433)
 
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" height="64">
+
+> [Microsoft Certified: Power Platform Solution Architect Expert](https://learn.microsoft.com/credentials/certifications/power-platform-solution-architect-expert/)
+
+PL-600 (2025/01/31)
+
+<br><br>
+
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="64">
 
 > [Microsoft Certified: Power Platform Developer Associate](https://learn.microsoft.com/ja-jp/users/48268433/credentials/certification/power-platform-developer-associate)
