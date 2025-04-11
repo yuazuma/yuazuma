@@ -34,7 +34,7 @@ PL-400 (2023/08/03)
 
 <img src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="64">
 
-> [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-engineer/)
+> [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-administrator/)
 
 AZ-104 (2025/04/11)
 
@@ -42,7 +42,7 @@ AZ-104 (2025/04/11)
 
 <img src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="64">
 
-> [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-administrator/)
+> [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-engineer/)
 
 AI-102 (2024/07/12)
 
