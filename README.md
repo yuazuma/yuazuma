@@ -36,6 +36,14 @@ PL-400 (2023/08/03)
 
 > [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-engineer/)
 
+AZ-104 (2025/04/11)
+
+<br><br>
+
+<img src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="64">
+
+> [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-administrator/)
+
 AI-102 (2024/07/12)
 
 <br><br>
