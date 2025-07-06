@@ -6,11 +6,25 @@
 
 ## IPA
 
+### 情報処理安全確保支援士
+
 <img src="https://user-images.githubusercontent.com/44966997/127832112-bf28d5f6-be68-44a5-ae1a-be03ecc03cff.png" height="64">
 <br>
 第010930号
 
 > https://riss.ipa.go.jp/r?r=010930
+
+<br><br>
+
+### データベーススペシャリスト
+
+DB-2023-10-00761
+
+<br><br>
+
+### ネットワークスペシャリスト
+
+NW-2025-04-00858
 
 <br><br><br>
 
